@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Myra" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/myra_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/myra_purple</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/myra_card</item>
+        <item name="colorOnSurface">@color/myra_text_primary</item>
+        <item name="android:windowBackground">@color/myra_bg</item>
+        <item name="android:colorBackground">@color/myra_bg</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:navigationBarColor">@color/myra_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

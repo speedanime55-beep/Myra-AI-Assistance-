@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MYRA Core Futuristic Dark Theme Palette -->
+    <color name="myra_bg">#FF050505</color>
+    <color name="myra_bg_elevated">#FF0D0D10</color>
+    <color name="myra_card">#FF111114</color>
+    <color name="myra_card_stroke">#FF26262C</color>
+    <color name="myra_prime_card">#FF1A0005</color>
+    <color name="myra_prime_stroke">#FF5C0A1E</color>
+
+    <color name="myra_red">#FFFF1744</color>
+    <color name="myra_red_soft">#FFFF6D6D</color>
+    <color name="myra_red_dark">#FFB71C1C</color>
+    <color name="myra_maroon">#FF880E4F</color>
+    <color name="myra_purple">#FFD500F9</color>
+    <color name="myra_purple_soft">#FFE040FB</color>
+    <color name="myra_cyan">#FF40C4FF</color>
+    <color name="myra_cyan_deep">#FF00B0FF</color>
+
+    <color name="myra_text_primary">#FFEEEEEE</color>
+    <color name="myra_text_secondary">#FF9E9EA8</color>
+    <color name="myra_text_hint">#FF55555E</color>
+    <color name="myra_success">#FF00E676</color>
+    <color name="myra_warning">#FFFFB300</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

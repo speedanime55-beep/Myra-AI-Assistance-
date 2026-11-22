@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base obsidian black -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FF050505" />
+        </shape>
+    </item>
+    <!-- Top-left subtle crimson radial glow -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:centerX="0.12"
+                android:centerY="0.10"
+                android:endColor="#00050505"
+                android:gradientRadius="420dp"
+                android:startColor="#26FF1744"
+                android:type="radial" />
+        </shape>
+    </item>
+    <!-- Bottom-right subtle electric purple radial glow -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:centerX="0.88"
+                android:centerY="0.86"
+                android:endColor="#00050505"
+                android:gradientRadius="420dp"
+                android:startColor="#22D500F9"
+                android:type="radial" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,6 @@
+{
+  "name": "Myra",
+  "description": "MYRA AI Voice Assistant powered by Gemini Live WebSocket with native PCM audio, animated voice orb, Hinglish/English voice commands, call handling, and floating overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

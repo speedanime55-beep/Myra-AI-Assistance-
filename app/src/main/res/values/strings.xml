@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Myra</string>
+    <string name="myra_title">MYRA</string>
+    <string name="myra_subtitle">AI COMPANION</string>
+    <string name="accessibility_description">Allows MYRA to open and close apps, tap controls, type text, and scroll screens when you give voice commands.</string>
+
+    <!-- Main screen -->
+    <string name="status_idle">Tap karke bolo</string>
+    <string name="status_connecting">Connecting to MYRA…</string>
+    <string name="status_listening">Sun rahi hoon…</string>
+    <string name="status_speaking">Bol rahi hoon…</string>
+    <string name="status_thinking">Soch rahi hoon…</string>
+    <string name="status_muted">Mic muted — Tap to resume</string>
+    <string name="status_no_api_key">Tap Settings to enter your Gemini API key</string>
+    <string name="status_reconnecting">Reconnecting in 3s…</string>
+    <string name="hint_long_press_stop">Tap to mute • Long press to interrupt</string>
+    <string name="hint_type_message">Type a command or message…</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_settings">Open Settings</string>
+    <string name="cd_mic_button">Toggle microphone or long press to stop MYRA speaking</string>
+    <string name="cd_send_button">Send message to MYRA</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_close_overlay">Close MYRA floating orb</string>
+    <string name="cd_delete_contact">Delete prime contact</string>
+    <string name="cd_battery">Battery status</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">MYRA SETTINGS</string>
+    <string name="section_ai_config">GEMINI LIVE ENGINE</string>
+    <string name="label_api_key">Gemini API Key</string>
+    <string name="hint_api_key">Paste your Gemini API key</string>
+    <string name="label_user_name">Your Name</string>
+    <string name="hint_user_name">e.g. Sagar</string>
+    <string name="label_ai_model">Live Audio Model</string>
+    <string name="label_voice">Voice Profile</string>
+    <string name="section_personality">PERSONALITY MODE</string>
+    <string name="mode_gf">GF Mode — Warm Hinglish Companion</string>
+    <string name="mode_professional">Professional Mode — Formal English</string>
+    <string name="mode_assistant">Assistant Mode — Friendly &amp; Balanced</string>
+    <string name="section_prime_contacts">PRIME CONTACTS</string>
+    <string name="btn_add_prime_contact">ADD PRIME CONTACT</string>
+    <string name="empty_prime_contacts">No prime contacts yet. Add your close friend, family, or favorite contacts for instant voice calling.</string>
+    <string name="section_system_access">SYSTEM ACCESS</string>
+    <string name="accessibility_enabled">Accessibility Service: Active</string>
+    <string name="accessibility_disabled">Accessibility Service: Disabled (Tap to Enable)</string>
+    <string name="overlay_enabled">Floating Overlay Permission: Active</string>
+    <string name="overlay_disabled">Floating Overlay Permission: Disabled (Tap to Enable)</string>
+    <string name="btn_save_settings">SAVE CONFIGURATION</string>
+    <string name="toast_settings_saved">Settings saved. Restart app to apply changes</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_add_prime_title">Add Prime Contact</string>
+    <string name="hint_contact_name">Contact Name (e.g. Priya)</string>
+    <string name="hint_contact_number">Phone Number (e.g. +919876543210)</string>
+    <string name="action_add">Add</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Notifications -->
+    <string name="notif_overlay_channel">MYRA Floating Assistant</string>
+    <string name="notif_overlay_title">MYRA Assistant Active</string>
+    <string name="notif_overlay_text">Double-press power button anytime for floating orb</string>
+    <string name="notif_call_channel">MYRA Call Monitor</string>
+    <string name="notif_call_title">MYRA Call Assistant</string>
+    <string name="notif_call_text">Ready to announce and handle incoming calls</string>
+</resources>
